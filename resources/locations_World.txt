@@ -1,0 +1,14 @@
+location_org	location	size	institutions	label
+	South Perth, Australia			Perth, Australia
+	Jerusalem, Israel			"Jerusalem, Israel
+Bet Dagan, Israel"
+	Bet dagan, Isreal			
+	Guadalajara, Mexico			Guadalajara, Mexico
+	Talca, Chile			Talca, Chile
+	Nishinasuno, Japan			Nishinasuno, Japan
+	Perth, Western Australia			Perth, Australia
+	Univeristy of Georgia, USA			University of Georgia, USA
+	Hefei, China			Hefei, China
+	Hobart, Australia			Hobart, Australia
+	Fargo, North Dakota, USA			Fargo, North Dakota, USA
+	Aleppo, Syria			Aleppo, Syria

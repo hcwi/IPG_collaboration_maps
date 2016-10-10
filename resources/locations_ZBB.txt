@@ -1,0 +1,7 @@
+﻿label	name	location
+IPK Gatersleben	IPK	Getersleben, Germany
+HMGU Munich	HMGU	Munchen, Germany
+GMI Vienna	GMI	Vienna, Austria
+INRA Versailles	INRA	Paris, France
+EBI Hinxton	EBI	Hinxton, UK
+IGR PAN Poznań	IGR PAN	Poznan, Poland

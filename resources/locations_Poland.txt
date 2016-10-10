@@ -1,0 +1,22 @@
+location_org	location	size	institutions	label
+Poznań	Poznan	9	UAM, UP, PP, ICbB, ISRiL, IOR, IHAR, IWNiRZ, CBDNA	Poznań:UAM, UP, PP, ICbB, ISRiL, IOR, IHAR, IWNiRZ, CBDNA
+Kraków	Krakow	5	UJ, UR, IFR, MHR, IHAR	Kraków:UJ, UR, IFR, MHR, IHAR
+Lublin	Lublin	3	UP, UMCS, IA	Lublin:UP, UMCS, IA
+Warszawa	Warszawa	2	SGGW, IBA	Warszawa:SGGW, IBA
+Szczecin	Szczecin	2	USz, ZUT	Szczecin:USz, ZUT
+Lodz	Lodz	2	UŁ, PŁ	Lodz:UŁ, PŁ
+Katowice	Katowice	1	UŚ	Katowice:UŚ
+Sieradz	Sieradz	1	Medana	Sieradz:Medana
+Choryn	Choryn	1	DANKO	Choryn:DANKO
+Smolice	Smolice	1	HR	Smolice:HR
+Strzelce	Strzelce	1	HR	Strzelce:HR
+Tulce	Tulce	1	PHR	Tulce:PHR
+Słupia Wielka	Slupia Wielka	1	COBORU	Słupia Wlk:COBORU
+Radzików	Radzikow	1	IHAR	Radzików:IHAR
+Puławy	Pulawy	1	IUNG	Puławy:IUNG
+Rzeszów	Rzeszow	1	UR	Rzeszów:UR
+Toruń	Torun	1	UMK	Toruń:UMK
+Olsztyn	Olsztyn	1	UWM	Olsztyn:UWM
+Siedlce	Siedlce	1	UPH	Siedlce:UPH
+Bydgoszcz	Bydgoszcz	1	UTP	Bydgoszcz:UTP
+Wrocław	Wroclaw	1	IMiTD PAN	Wrocław:IMiTD

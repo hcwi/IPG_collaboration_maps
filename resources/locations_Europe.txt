@@ -1,0 +1,40 @@
+location_org	location	size	institutions	label	id	vjust	hjust
+	Aberystwyth, UK			Aberystwyth	1	0	0.2
+	Worcester, UK				2	0	0
+	Rothamsted, UK				3	0	0
+	Sheffield, UK			"Sheffield
+Worcester
+Rothamsted
+Kew London"	4	-1	0
+	Kew London, UK				5	0	0
+	Lusignan, France			Lusignan	6	0	0
+	Marseille, France			Marseille	7	0	0
+	Rennes, France			Rennes	8	0	0
+	Oeiras, Portugal			Oeiras	9	0	0
+	Cordoba, Spain			Cordoba	10	0	0
+	Madrid, Spain			Madrid	11	0	0
+	Copenhagen, Danmark			Copenhagen	12	0	0.2
+	Bonn, Germany			Bonn	13	0	0.2
+	Berlin, Germany			"Berlin
+Potsdam
+Nuthetal
+Muncheberg"	14	-1	0
+	Hamburg, Germany			Hamburg	15	-1	0.2
+	Nuthetal, Germany				16	-1	0
+	Muncheberg, Germany				17	-1	0
+	Potsdam, Germany				18	-1	0
+	Frankfurt am Main, Germany			Frankfurt	19	0	0.2
+	Gatersleben, Germany			Gatersleben	20	-0.5	0.2
+	Zurich, Switzerland			Zurich	21	0	0
+	Novi Sad, Serbia			Novi Sad	22	0	0
+	Praha, Czech Republic			Praha	23	0	0
+	Olomouc, Czech Republic			Olomouc	24	0	0
+	Vinnitsa, Ukraine			Vinnitsa	25	0	0
+	Siauliai, Lituania			Siauliai	26	0	0
+	Riga, Latvia			Riga	27	0	0
+	Tartu, Estonia			Tartu	28	0	0
+	Tallin, Estonia			Tallin	29	0	0
+	Helsinki, Finland			Helsinki	30	0	0
+	Oslo, Norway			"Oslo
+As"	31	-1	0
+	As, Norway				32	-1	0
